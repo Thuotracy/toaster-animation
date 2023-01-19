@@ -16,7 +16,7 @@ body{
 }
 
 .toaster{
-    background-color: red;
+    background-color: rgb(252, 3, 3);
     height: 90px;
     width: 120px;
     position: relative;
@@ -26,9 +26,39 @@ body{
 }
 
 .cover{
-   background-color: #f71616; 
+   background-color: #fa3c3cfd; 
    height: 90px;
    width: 120px;
    border-radius: 20px 25px 0 0;
    position: relative;
+   right: 30px;
+}
+
+.b1,.b2{
+    background-color: #f70404;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.b1{
+    top: 20px;
+    left: 50px;
+}
+
+.b2{
+    top: 25px;
+    left: 50px;
+}
+
+.b3{
+    background-color: #f11313;
+    height: 16px;
+    width: 16px;
+    position: relative;
+    top: 30px;
+    left: 46.5px;
+    border-radius: 50%;
+    border: 2px solid white;
 }
