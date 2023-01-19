@@ -14,3 +14,12 @@ body{
     left: 0;
     bottom: 0;
 }
+
+.toaster{
+    background-color: red;
+    height: 90px;
+    width: 120px;
+    position: relative;
+    top: 210px;
+    left: 325px;
+}
