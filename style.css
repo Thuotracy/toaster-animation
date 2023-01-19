@@ -21,5 +21,14 @@ body{
     width: 120px;
     position: relative;
     top: 210px;
-    left: 325px;
+    left: 125px;
+    border-radius: 20px 25px 0 0;
+}
+
+.cover{
+   background-color: #f71616; 
+   height: 90px;
+   width: 120px;
+   border-radius: 20px 25px 0 0;
+   position: relative;
 }
