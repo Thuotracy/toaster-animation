@@ -127,7 +127,7 @@ body{
     background-color: #666666;
     width: 121px;
     height: 10px;
-    border-radius: 13px;
+    border-radius: 6%;
     position: relative;
     bottom: 102.1px;
     right: 31px;
@@ -137,7 +137,7 @@ body{
     background-color: #333333;
     width: 34px;
     height: 10px;
-    border-radius: 13px;
+    border-radius: 15%;
     position: relative;
     bottom: 93px;
     left: 87.4px;
@@ -150,7 +150,22 @@ body{
     position: relative;
 }
 
-.li{
+.l1{
     bottom: 103px;
     right: 20px;
+}
+
+.l2{
+    bottom: 110px;
+    left: 10px;
+}
+
+.l3{
+    bottom: 117px;
+    left: 80px;
+}
+
+.l4{
+    bottom: 124px;
+    left: 105px;
 }
