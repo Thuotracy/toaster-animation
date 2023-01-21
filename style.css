@@ -124,5 +124,11 @@ body{
 }
 
 .base1{
-    
+    background-color: #666666;
+    width: 120px;
+    height: 10px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 102.1px;
+    right: 33px;
 }
