@@ -35,7 +35,7 @@ body{
 }
 
 .b1,.b2{
-    background-color: #f70404;
+    background-color: gray;
     width: 12px;
     height: 12px;
     border-radius: 50%;
