@@ -116,7 +116,9 @@ body{
 .handle3{
     position: relative;
     background-color: #333333;
-    height: ;
+    height: 9.5px;
     width: 8px;
-    border-radius: ;
+    border-radius: 50%;
+    left: 16.5px;
+    bottom: 12px;
 }
