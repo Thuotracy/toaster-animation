@@ -169,3 +169,13 @@ body{
     bottom: 124px;
     left: 105px;
 }
+
+.toastl1{
+    background-color: #cc8800;
+    width: 59px;
+    height: 15px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 255px;
+    left: 24px;
+}
