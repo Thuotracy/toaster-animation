@@ -89,7 +89,16 @@ body{
     background-color: #333333;
     height: 41px;
     width: 5px;
-    bottom: ;
+    bottom: 107px;
     left: 101px;
-    border-radius: ;
+    border-radius: 15px;
+}
+
+.handle1{
+    background-color: white;
+    height: 5px;
+    width: 20px;
+    position: relative;
+    left: 0.1px;
+    top: 1.7px;
 }
