@@ -62,3 +62,34 @@ body{
     border-radius: 50%;
     border: 2px solid white;
 }
+
+.shine{
+    position: relative;
+    height: 24px;
+    width: 15px;
+    background-color: #e6f7ff;
+    border-radius: 50%;
+    transform: rotate(90deg);
+    bottom: 35px;
+    left: 7px;
+}
+
+.slot1{
+    position: relative;
+    background-color: #666666;
+    height: 43px;
+    width: 8px;
+    border-radius: 15px;
+    bottom: 65px;
+    left: 101px;
+}
+
+.slot2{
+    position: relative;
+    background-color: #333333;
+    height: 41px;
+    width: 5px;
+    bottom: ;
+    left: 101px;
+    border-radius: ;
+}
