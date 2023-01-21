@@ -132,3 +132,13 @@ body{
     bottom: 102.1px;
     right: 33px;
 }
+
+.base2{
+    background-color: #333333;
+    width: 30px;
+    height: 10px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 93px;
+    left: 90px;
+}
