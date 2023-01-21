@@ -144,5 +144,13 @@ body{
 }
 
 .l1,.l2,.l3,.l4{
-    
+    height: 7px;
+    width: 8px;
+    background-color: #333333;
+    position: relative;
+}
+
+.li{
+    bottom: 103px;
+    right: 20px;
 }
