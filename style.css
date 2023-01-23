@@ -178,6 +178,7 @@ body{
     position: relative;
     bottom: 255px;
     left: 24px;
+    z-index: 1;
 }
 
 .toastl2{
@@ -186,6 +187,26 @@ body{
     height: 45px;
     position: relative;
     top: 5px;
-    left: 2.8px; 
-    z-index: 1;
+    left: 2.8px;  
+}
+
+.toastu1{
+    background-color: #ffd480;
+    height: 8px;
+    width: 51px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 41px;
+    left: 3px;
+    /* z-index: 1; */
+}
+
+.toastu2{
+    background-color: #ffd480;
+    height: 35px;
+    width: 42px;
+    position: relative;
+    bottom: 41px;
+    left: 7.3px; 
+     z-index: 100;
 }
