@@ -208,3 +208,14 @@ body{
     bottom: 41px;
     left: 7.3px; 
 }
+
+.toastl3{
+    background-color: #cc8800;
+    width: 59px;
+    height: 15px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 275px;
+    right: 2px;
+    z-index: -1;
+}
