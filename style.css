@@ -239,6 +239,10 @@ body{
     50%{
         transform: translateY(27px);
     }
+
+    87%{
+        transform: translateY(-30px);
+    }
 }
 
 .toastl4{
