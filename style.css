@@ -219,3 +219,12 @@ body{
     right: 2px;
     z-index: -1;
 }
+
+.toastl4{
+    background-color: #cc8800;
+    width: 52px;
+    height: 45px;
+    position: relative; 
+    top: 5px;
+    left: 2.8px;
+}
