@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #ffe086;
+    background-color: black;
 }
 
 .canvas{
@@ -16,7 +16,7 @@ body{
 }
 
 .toaster{
-    background-color: #5abff2;
+    background-color: rgb(252, 35, 35);
     height: 90px;
     width: 120px;
     position: relative;
@@ -26,7 +26,7 @@ body{
 }
 
 .cover{
-   background-color: #99ddff; 
+   background-color: rgb(243, 60, 60); 
    height: 90px;
    width: 120px;
    border-radius: 20px 25px 0 0;
@@ -53,7 +53,7 @@ body{
 }
 
 .b3{
-    background-color: #5abff2;
+    background-color: rgb(252, 35, 35);
     height: 16px;
     width: 16px;
     position: relative;
@@ -67,7 +67,7 @@ body{
     position: relative;
     height: 24px;
     width: 15px;
-    background-color: #e6f7ff;
+    background-color: #def3fd;
     border-radius: 50%;
     transform: rotate(30deg);
     bottom: 35px;
