@@ -178,6 +178,7 @@ body{
     position: relative;
     bottom: 255px;
     left: 24px;
+    z-index: -1;
 }
 
 .toastl2{
