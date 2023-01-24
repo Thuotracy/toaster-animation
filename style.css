@@ -1,10 +1,10 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: black;
 }
 
 .canvas{
+    background-color: #ffe086;
     height: 510px;
     width: 350px;
     margin: auto;
@@ -16,7 +16,7 @@ body{
 }
 
 .toaster{
-    background-color: rgb(252, 3, 3);
+    background-color: #5abff2;
     height: 90px;
     width: 120px;
     position: relative;
@@ -26,7 +26,7 @@ body{
 }
 
 .cover{
-   background-color: #fa3c3cfd; 
+   background-color: #99ddff; 
    height: 90px;
    width: 120px;
    border-radius: 20px 25px 0 0;
@@ -35,7 +35,7 @@ body{
 }
 
 .b1,.b2{
-    background-color: gray;
+    background-color: #737373;
     width: 12px;
     height: 12px;
     border-radius: 50%;
