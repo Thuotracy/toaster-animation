@@ -1,10 +1,10 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #ffe086;
 }
 
 .canvas{
-    background-color: #ffe086;
     height: 510px;
     width: 350px;
     margin: auto;
@@ -53,7 +53,7 @@ body{
 }
 
 .b3{
-    background-color: #f11313;
+    background-color: #5abff2;
     height: 16px;
     width: 16px;
     position: relative;
@@ -69,7 +69,7 @@ body{
     width: 15px;
     background-color: #e6f7ff;
     border-radius: 50%;
-    transform: rotate(90deg);
+    transform: rotate(30deg);
     bottom: 35px;
     left: 7px;
 }
@@ -178,7 +178,6 @@ body{
     position: relative;
     bottom: 255px;
     left: 24px;
-    z-index: 1;
 }
 
 .toastl2{
