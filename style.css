@@ -101,6 +101,13 @@ body{
     position: relative;
     left: 0.1px;
     top: 1.7px;
+    animation: 6s move infinite;
+}
+
+@keyframes move{
+    50%{
+        transform: translateY(31px);
+    }
 }
 
 .handle2{
