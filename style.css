@@ -186,6 +186,13 @@ body{
     bottom: 255px;
     left: 24px;
     z-index: -1;
+    animation: 6s toast infinite;
+}
+
+@keyframes toast{
+    50%{
+        transform: translateY(25px);
+    }
 }
 
 .toastl2{
