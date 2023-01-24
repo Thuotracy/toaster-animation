@@ -232,6 +232,13 @@ body{
     bottom: 275px;
     right: 2px;
     z-index: -1;
+    animation: 6s toastt infinite;
+}
+
+@keyframes toastt{
+    50%{
+        transform: translateY(27px);
+    }
 }
 
 .toastl4{
