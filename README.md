@@ -1,7 +1,7 @@
 # TOASTER ANIMATION
 
 ## Description
-A toaster animation pure CSS
+A toaster animation pure CSS.
 
 ## Live link
 https://thuotracy.github.io/toaster-animation/
