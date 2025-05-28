@@ -1,4 +1,4 @@
-# TOASTER ANIMATION
+# TOASTER ANIMATIO
 
 ## Description
 A toaster animation pure CSS.
